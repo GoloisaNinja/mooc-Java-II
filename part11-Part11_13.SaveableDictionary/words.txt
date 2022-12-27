@@ -1,0 +1,6 @@
+Java:runtime
+alla oleva:below
+apina:monkey
+Jetbrains:Intellij
+olut:beer
+hello:world
